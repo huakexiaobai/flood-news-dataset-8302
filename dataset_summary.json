@@ -1,0 +1,15 @@
+{
+  "dataset": "flood-news-dataset-8302",
+  "news_directories": 8302,
+  "primary_content_files": 8302,
+  "tracked_dataset_files": 14541,
+  "total_dataset_bytes": 27482159,
+  "extensions": {
+    ".jfif": 6,
+    ".json": 5817,
+    ".md": 8718
+  },
+  "news_id_definition": "top-level directory name under content/",
+  "inventory_file": "dataset_inventory.csv",
+  "inventory_generated_at": "2026-09-01T17:25:47+08:00"
+}
